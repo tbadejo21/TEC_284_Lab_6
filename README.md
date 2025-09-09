@@ -6,3 +6,4 @@ In this lab, you will make a fork of this repo to create your own version of my 
 By the end, you will generate a graph in Excel that looks something like this:
 
 ![Picture1](https://github.com/user-attachments/assets/aa726deb-2206-4f85-95d6-e49df3beb05e)
+<img width="1128" height="841" alt="Screenshot 2025-09-09 151053" src="https://github.com/user-attachments/assets/dfd84e19-3a97-4259-9910-cac5a698e103" />
